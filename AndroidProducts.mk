@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/everest_mojito.mk
+    $(LOCAL_DIR)/infinity_mojito.mk
 
 COMMON_LUNCH_CHOICES := \
-    everest_mojito-user \
-    everest_mojito-userdebug \
-    everest_mojito-eng
+    infinity_mojito-user \
+    infinity_mojito-userdebug \
+    infinity_mojito-eng
